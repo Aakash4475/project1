@@ -1,0 +1,52 @@
+
+p {
+    font-family: arial;
+    margin-top: 0px;
+    
+}
+.video-title {
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.video-stats {
+    font-size: 14px;
+    color: rgb(96,96,96);
+    margin-bottom: 15px;
+}
+
+.change-type {
+    font-size: 14px;
+    color: #606060;
+}
+
+.adj-title {
+    width: 300px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #606060;
+    margin-bottom: 20px;
+}
+
+.box {
+    background-color: red;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+
+.shop-link {
+    color: aliceblue;
+    cursor: pointer;
+    text-decoration-line: none;
+}
+
+.shop-link:hover {
+    text-decoration-line: underline;
+}
